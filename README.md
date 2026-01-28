@@ -53,7 +53,10 @@ fitglow-bootstrap/
 
 ## 🌐 Deploy
 
-**Netlify:** Drag folder to netlify.com/drop
+Voici mon projet Bootstrap déployé en ligne pour démo :
+
+🔗 [Voir la démo](https://mekid-asmaa-hayat.github.io/Projet-Bootstrap/)
+![Capture d'écran du site](Screenshot/Screenshot_Home.png)
 
 ## 💻 Technologies
 
@@ -70,4 +73,4 @@ Works on mobile, tablet, desktop.
 
 ---
 
-Made with 💖 by Asmaa Hayat
+Made with 💖 by Mekid Asma Hayet
