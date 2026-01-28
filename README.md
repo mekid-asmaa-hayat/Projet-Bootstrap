@@ -1,4 +1,4 @@
-# 🏋️ FitGlow - Bootstrap 5 Fitness Website
+FitGlow - Bootstrap 5 Fitness Website
 
 Modern fitness platform for women built with Bootstrap 5.
 
