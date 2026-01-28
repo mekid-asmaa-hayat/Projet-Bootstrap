@@ -19,7 +19,7 @@ Modern fitness platform for women built with Bootstrap 5.
 
 **Features:**
 
-- Pink/rose theme
+- Pink theme
 - Fully responsive
 - Form validation
 - Interactive filters
@@ -54,15 +54,6 @@ fitglow-bootstrap/
 ## 🌐 Deploy
 
 **Netlify:** Drag folder to netlify.com/drop
-
-**GitHub Pages:**
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git push
-```
 
 ## 💻 Technologies
 
